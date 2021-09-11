@@ -8,6 +8,9 @@
 
 /__pycache__
 
-/.jpynb_checkpoints
+/.ipynb_checkpoints
 
 /rawdata
+
+/Sports_Tracker
+
